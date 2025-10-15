@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Xuedong Li's Homepage"
-author_profile: true
+title: ""
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
