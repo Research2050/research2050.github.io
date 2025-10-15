@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Welcome"
+title                    : "Xuedong Li's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ repository               : "Research2050/research2050.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Xuedong Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Phd Student"
-  location         : "China"
-  employer         : "Beihang University"
+  avatar        : "profile.png"
+  name         : "Xuedong Li"
+  pronouns   : # example: "she/her"  
+  bio             : "Phd Student"
+  location      : "China"
+  employer    : "Beihang University"
   uri              : # URL
-  email            : "researcher2050@163.com" 
+  email          : "researcher2050@163.com" 
 
   # Academic websites
   academia         : # URL
