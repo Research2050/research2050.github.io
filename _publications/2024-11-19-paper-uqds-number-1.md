@@ -9,6 +9,6 @@ venue: 'Chinese Journal of Aeronautics'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.cja.2024.11.015'
 bibtexurl: '/assets/bib/2024-11-19-paper-uqds-number-1.bib'
-citation: 'Xuedong Li, Yunfeng Dong. (2025). &quot; A satellite cluster observation method for logistics status of industry chain with quantifiable uncertainty.&quot; <i>Chinese Journal of Aeronautics</i>. 38(6).'
+citation: 'Li X, Dong Y. A satellite cluster observation method for logistics status of industry chain with quantifiable uncertainty[J]. Chinese Journal of Aeronautics, 2025, 38(6): 103305. https://doi.org/10.1016/j.cja.2024.11.015'
 ---
 Abstract
