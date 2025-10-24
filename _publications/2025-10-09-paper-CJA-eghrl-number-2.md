@@ -2,7 +2,7 @@
 title: "An expert-guided hierarchical reinforcement learning method for collaborative mission planning in LEO satellite cluster"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-09-paper-CJA-eghrl-number-2
+permalink: /publications/2025-10-09-paper-CJA-eghrl-number-2
 excerpt: ''
 date: 2025-10-09
 venue: 'Chinese Journal of Aeronautics'
