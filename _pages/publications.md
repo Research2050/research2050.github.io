@@ -5,4 +5,5 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% include publications %}
+
+{% include publications.html %}
