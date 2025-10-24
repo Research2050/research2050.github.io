@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -13,17 +13,11 @@ I am a Ph.D. candidate at Beihang University. I have published two first-author 
 
 ## Research Interests
 
+- Aerospace Systems and Dynamics  
 - Aircraft Design  
-- Dynamics  
-- Scheduling Problems  
+- Scheduling and Resource Allocation  
+- Learning-based Optimization  
 - Uncertainty Quantification  
-
-## Research Interests
-
-- Aerospace Systems and Dynamics
-- Scheduling and Resource Allocation
-- Learning-based Optimization
-- Uncertainty Quantification
 
 ## Publications
 
