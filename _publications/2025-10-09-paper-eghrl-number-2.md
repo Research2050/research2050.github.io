@@ -1,7 +1,7 @@
 ---
 title: "An expert-guided hierarchical reinforcement learning method for collaborative mission planning in LEO satellite cluster"
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/2025-10-09-paper-title-number-2
 excerpt: ''
 date: 2025-10-09
