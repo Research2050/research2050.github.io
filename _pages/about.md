@@ -17,3 +17,7 @@ I am a Ph.D. candidate at Beihang University. I have published two first-author 
 - Scheduling and Resource Allocation  
 - Learning-based Optimization  
 - Uncertainty Quantification  
+
+## Publications
+
+{% include publications.html %}
