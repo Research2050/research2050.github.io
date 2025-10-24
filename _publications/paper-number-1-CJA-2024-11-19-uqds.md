@@ -1,7 +1,7 @@
 ---
 title: "A satellite cluster observation method for logistics status of industry chain with quantifiable uncertainty"
 collection: publications
-category: Journal Articles
+category: manuscripts
 permalink: /publication/2024-11-19-paper-title-number-1
 excerpt: ''
 date: 2024-11-19
