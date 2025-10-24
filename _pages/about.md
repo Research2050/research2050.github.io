@@ -14,7 +14,6 @@ I am a Ph.D. candidate at Beihang University. I have published two first-author 
 ## Research Interests
 
 - Aerospace Systems and Dynamics  
-- Aircraft Design  
 - Scheduling and Resource Allocation  
 - Learning-based Optimization  
 - Uncertainty Quantification  
