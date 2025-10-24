@@ -21,4 +21,4 @@ I am a Ph.D. candidate at Beihang University. I have published two first-author 
 
 ## Publications
 
-{% include publications.html %}
+{% render_relative ../_pages/publications.html %}
