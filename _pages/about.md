@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate at Beihang University. I have published two first-author or corresponding-author papers in *IEEE T-IM*, *IEEE T-AES*, and *Chin. J. Aeronaut.*, with one paper under revision and two under review. I also hold an authorized invention patent and have served as a reviewer for SCI journals including *IEEE T-VT* and *IEEE T-ASE*.
+I am a Ph.D. candidate at Beihang University. I have published two first-author or corresponding-author papers in *IEEE T-IM*, *IEEE T-AES*, and *Chin. J. Aeronaut.*, with one paper under revision and two under review. I also hold an authorized invention patent and have served as a reviewer for SCI journals including *IEEE T-II*, *IEEE IoT* and *IEEE T-VT* .
 
 ## Research Interests
 
