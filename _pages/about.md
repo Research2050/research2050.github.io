@@ -13,17 +13,11 @@ I am a Ph.D. candidate at Beihang University, with published papers in *Meas* an
 
 ## Education
 
-**PhD**
+**PhD** - Beihang University, Beijing, China
 
-Beihang University, Beijing, China
+**MS** - Beihang University, Beijing, China
 
-**MS**
-
-Beihang University, Beijing, China
-
-**BS**
-
-Beihang University, Beijing, China
+**BS** - Beihang University, Beijing, China
 
 ## Research Interests
 
