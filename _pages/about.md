@@ -27,10 +27,10 @@ I am a Ph.D. candidate at Beihang University, with published papers in *Meas* an
 - Uncertainty Quantification
 
 ## Editorships and Services
-- Reviewer, *IEEE transactions on industrial informatics (IEEE T-II)*
-- Reviewer, *IEEE transactions on vehicular technology (IEEE T-VT)*
-- Reviewer, *IEEE internet of things journal (IEEE IoT)*
-- Reviewer, *Aerospace science and technology (AST)*
+- Reviewer, *IEEE Transactions on Industrial Informatics (IEEE T-II)*
+- Reviewer, *IEEE transactions on Vehicular Technology (IEEE T-VT)*
+- Reviewer, *IEEE Internet of Things Journal (IEEE IoT)*
+- Reviewer, *Aerospace Science and Technology (AST)*
 - Reviewer, *Frontiers of Information Technology & Electronic Engineering (FITEE)*
 
 ## Mail
