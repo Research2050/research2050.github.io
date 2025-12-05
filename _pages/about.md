@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate at Beihang University, with published papers in *Meas* and *Chin J Aeronaut*. I also hold an authorized invention patent and have served as a reviewer for SCI journals including *IEEE T-II*, *IEEE T-VT* and *IEEE IoT* .
+I received my B.Eng., M.Eng., and Ph.D. degrees in Aeronautical and Astronautical Science and Technology from Beihang University, China. I have published papers in *Meas*, hold an authorized invention patent, and have served as a reviewer for SCI journals such as *IEEE TII*, *IEEE TVT*, and *IEEE IoTJ*.
 
 ## Education
 
