@@ -33,6 +33,5 @@ I received my B.Eng., M.Eng., and Ph.D. degrees in Aeronautical and Astronautica
 - Reviewer, *Aerospace Science and Technology (AST)*
 
 ## Mail
-researcher2050@163.com
 
 
