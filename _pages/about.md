@@ -27,11 +27,15 @@ I received my B.Eng., M.Eng., and Ph.D. degrees in Aeronautical and Astronautica
 - Uncertainty Quantification
 
 ## Editorships and Services
-- Reviewer, *IEEE Transactions on Industrial Informatics (IEEE T-II)*
-- Reviewer, *IEEE transactions on Vehicular Technology (IEEE T-VT)*
+- Reviewer, *IEEE Transactions on Multimedia (IEEE TMM)*
+- Reviewer, *IEEE Transactions on Industrial Informatics (IEEE TII)*
+- Reviewer, *IEEE Transactions on Consumer Electronics (IEEE TCE)*
+- Reviewer, *IEEE transactions on Vehicular Technology (IEEE TVT)*
 - Reviewer, *IEEE Internet of Things Journal (IEEE IoT)*
+- Reviewer, *Expert systems with applications (ESWA)*
 - Reviewer, *Aerospace Science and Technology (AST)*
 
 ## Mail
 
+researcher2050@163.com
 
